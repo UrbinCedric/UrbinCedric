@@ -4,7 +4,7 @@ I'm Cédric, full-stack developer & it project manager at Rotyre s.à r.l. & Mul
 
 ## What am I doing?
 
-With the rapid advancement in technologies, it is becoming increasingly clear to me that the digitization is becoming increasingly important.
+With the rapid advancement in technologies, it is becoming increasingly clear to me that the digitalization is becoming increasingly important.
 With less time & higher demand, it is critical to max out the efficiency of the product you are trying to sell. 📈
 
 At Rotyre, I am currently bringing the company to the next level of digitalization & innovate the process to bring the international success even further!
