@@ -10,7 +10,7 @@ With less time & higher demand, it is critical to max out the efficiency of the 
 At Rotyre, I am currently bringing the company to the next level of digitalization & innovate the process to bring the international success even further!
 I am hoping to be able to forward my career as developer & consultant to help people & businesses that really deserve it! 🎉
 
-## Current tech stack:
+## Current tech stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -31,6 +31,9 @@ I am hoping to be able to forward my career as developer & consultant to help pe
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+
+## Contributions 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ## Social
 Get in touch & change the world! 🌍🌱
