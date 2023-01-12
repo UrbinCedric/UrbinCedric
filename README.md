@@ -2,9 +2,13 @@
 
 I'm Cédric, full-stack developer & it project manager at Rotyre s.à r.l. & Mullerpneus Pneus s.à r.l.
 
-With the rapid advancement in technologies, it is becoming increasingly clear to me that the digitization of companies is becoming increasingly important.
+## What am I doing?
 
-At Rotyre, I am currently bringing Rotyre to the next level of digitalisation & innovate the process to bring the international success even further! 🎉
+With the rapid advancement in technologies, it is becoming increasingly clear to me that the digitization is becoming increasingly important.
+With less time & higher demand, it is critical to max out the efficiency of the product you are trying to sell. 📈
+
+At Rotyre, I am currently bringing the company to the next level of digitalization & innovate the process to bring the international success even further!
+I am hoping to be able to forward my career as developer & consultant to help people & businesses that really deserve it! 🎉
 
 ## Current tech stack:
 
@@ -29,5 +33,6 @@ At Rotyre, I am currently bringing Rotyre to the next level of digitalisation & 
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
 ## Social
+Get in touch & change the world! 🌍🌱
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9dric-urbin-668725213/)
