@@ -33,7 +33,7 @@ I am hoping to be able to forward my career as developer & consultant to help pe
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
 ## Contributions 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UrbinCedric&theme=dark)](https://git.io/streak-stats)
 
 ## Social
 Get in touch & change the world! 🌍🌱
