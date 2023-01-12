@@ -38,4 +38,4 @@ I am hoping to be able to forward my career as a developer & it consultant to he
 ## Social
 Get in touch & change the world! 🌍🌱
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9dric-urbin-668725213/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urbincedric)
