@@ -8,7 +8,7 @@ With the rapid advancement in technologies, it is becoming increasingly clear to
 With less time & higher demand, it is critical to max out the efficiency of the product you are trying to sell. 📈
 
 At Rotyre, I am currently bringing the company to the next level of digitalization & innovate the process to bring our international success even further!
-I am hoping to be able to forward my career as a developer & it consultant to help people & businesses that really deserve it! 🎉
+I am hoping to be able to forward my career as a developer & project manager to help people & businesses that really deserve it! 🎉
 
 ## Current tech stack
 
