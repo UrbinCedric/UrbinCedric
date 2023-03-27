@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Cédric, full-stack developer & it project manager at Rotyre s.à r.l. & Mullerpneus Pneus s.à r.l.
+I'm Cédric, full-stack developer & it project manager at Rotyre s.à.r.l. & Mullerpneus s.à.r.l.
 
 ## What am I doing?
 
