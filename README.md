@@ -3,12 +3,8 @@
 I'm Cédric, full-stack developer & it project manager at Rotyre s.à.r.l. & Mullerpneus s.à.r.l.
 
 ## What am I doing?
-
-With the rapid advancement in technologies, it is becoming increasingly clear to me that the digitalization is becoming increasingly important.
-With less time & higher demand, it is critical to max out the efficiency of the product you are trying to sell. 📈
-
 At Rotyre, I am currently bringing the company to the next level of digitalization & innovate the process to bring our international success even further!
-I am hoping to be able to forward my career as a developer & project manager to help people & businesses that really deserve it! 🎉
+As a developer & project manager I want to help people & businesses that really deserve it! 🎉
 
 ## Current tech stack
 
