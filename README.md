@@ -4,7 +4,7 @@ I'm Cédric, full-stack developer & it project manager at Rotyre s.à.r.l. & Mul
 
 ## What am I doing?
 At Rotyre, I am currently bringing the company to the next level of digitalization & innovate the process to bring our international success even further!
-As a developer & project manager I want to help people & businesses that really deserve it! 🎉
+As a developer & project manager, I want to help people & businesses that really deserve it! 🎉
 
 ## Current tech stack
 
