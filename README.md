@@ -24,9 +24,6 @@ I'm Cédric, software developer at e-volution s.a. in Luxembourg.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
-## Contributions 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=UrbinCedric&theme=dark)](https://git.io/streak-stats)
-
 ## Social
 Get in touch & change the world! 🌍🌱
 
